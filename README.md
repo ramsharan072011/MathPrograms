@@ -1,4 +1,5 @@
 # The Output of the Program is given below:
+```
 ---------------------------------------
 What should be the starting number of Blue flowers? 2
 What should be the starting number of Purple flowers? 3
@@ -26,3 +27,4 @@ What should be the starting number of cycles you want to calculate to0? 10
 |     10   |      233        |  377    |
 ---------------------------------------
  The total number of flowers in the garden will be :610
+```
